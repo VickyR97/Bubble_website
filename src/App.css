@@ -136,3 +136,16 @@ small{
     animation-delay: 2.5s;
     width: 42px;
 }
+
+@media only screen and (max-width:800px){
+    .sidebar{
+        display: none;
+    }
+    .content{
+        left: 50px;
+        top: 250px; 
+    }
+    h1{
+        font-size: 40px;
+    }
+}
