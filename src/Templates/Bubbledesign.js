@@ -21,7 +21,7 @@ const Bubbledesign = () => {
         <div className="content">
           <small>Welcome to</small>
           <h1>
-            Vicky's <br />
+            Teezle's <br />
             Creative Studio{" "}
           </h1>
           <br />
